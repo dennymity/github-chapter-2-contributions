@@ -1967,7 +1967,7 @@ Hi, my name is Pratham Garg! This was added on 11-06-2026 missyoudiya 😎
 
 Hi, my name is Pablo Alencar! this was added on 11-06-2026 🎇🧨
 
-Hi, my name is  **[baraamallah]((https://github.com/baraamallah))**!  This was added on 12-06-2026 😎
+Hi, my name is **[baraamallah](<(https://github.com/baraamallah)>)**! This was added on 12-06-2026 😎
 
 Hi, my name is Trae! This was added 6-13-2026. 🌙
 
@@ -2040,3 +2040,5 @@ Hi, my name is Lux! This was added on 14-07-2026 ☕️
 Hi, my name is **[Jordan](https://github.com/D41FTY)**! This was added on 07/15/2026 😛👽💀
 
 Hi, my name is Kungfu-cell! This was added on 18-07-2026 🥹😇
+
+Hi, my name is <udin>! This was added on <18-7-2026> <🚀>
